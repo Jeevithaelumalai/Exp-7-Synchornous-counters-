@@ -118,7 +118,9 @@ endmodule
 ### TIMING DIGRAMS FOR COUNTER  
 # UP COUNTER:
 
-![Uploading up.jpg…]()
+![Uploading image.png…]()
+
+
 
 
 # DOWN COUNTER
